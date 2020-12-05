@@ -33,7 +33,7 @@ The GSoD journey to me is like Harry potter's journey to Hogwarts. A journey ful
 7. [Timeline & Deliverables](https://github.com/arzoo14/Google-Season-of-Docs-2020/blob/master/timeline_deliverables.md)  
 8. [Final Report](https://arzoo14.github.io/Google-Season-of-Docs-2020/)
 9. Final Work Product - [PCP](https://pcp.readthedocs.io/en/latest/), [Pbench](https://pbench.readthedocs.io/en/latest/)
-10. [Blogs]
+10. [Blogs](https://arzoo14.github.io/blogs/)
 
 
 
