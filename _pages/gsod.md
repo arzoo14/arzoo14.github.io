@@ -1,106 +1,39 @@
 ---
-title:  "GSoD 2020"
+title:  "Google Season of Docs 2020"
 layout: archive
 permalink: /gsod/
 author_profile: true
 comments: true
 ---
 
-[GSoD Progress](#gsod-progress)
 
-[PR](https://github.com/performancecopilot/pcp/pulls?q=is%3Apr+is%3Aclosed+author%3Aarzoo14+is%3Amerged)
+<p align="right">
+  <img src="../comboLogo.svg" />
+</p>
 
-## GSoD Progress
+<div style="text-align: justify">
+Google Season of Docs, 2020 with Performance Co-Pilot organization is the most beautiful journey of my life. When I got the proposal acceptance mail, I was like 
+</div>
 
-| SYMBOLS | MEANINGS |
-|:-------:|:--------:|
-| :heavy_check_mark: | Completed |
-| :construction: | Under Progress |
-| :warning: | Needs review |
-| :red_circle: | Not Yet Started |
+<p align="center">
+  <img src="../welcome.gif" />
+</p>
 
+<div style="text-align: justify">
+The GSoD journey to me is like Harry potter's journey to Hogwarts. A journey full of learnings (adventures) and challenges (hurdles), which I can not complete without the help of my mentors (friends) and Sphinx Documentation, Stack overflow, Google Search (spells).
+</div>
 
-
-| **DELIVERABLES**               | **STATUS**            |  **PR**  | **FEEDBACK**|
-|:---------------------------------|:---------------------:|:------------:|:-----------------:|
-|   **_WEEK 1 (September 14 - September 20)_** |    |     |        |
-| Sphinx setup for docs            | :heavy_check_mark:    | [#1060](https://github.com/performancecopilot/pcp/pull/1060)   | **Merged** |
-| About User's and Administrators's Guide             | :heavy_check_mark:    |    |
-| Ch-1: Introduction to PCP       | :heavy_check_mark: |
-| Ch-2: Installing and Configuring Performance Co-Pilot | :heavy_check_mark: |
-| Ch-3: Common Conventions and Arguments | :heavy_check_mark: |
-| Ch-4: Monitoring System Performance | :heavy_check_mark: |
-||||
-|   **_WEEK 2 (September 21 - September 27)_** |    |    |   |
-| Ch-5: Performance Metrics Inference Engine | :heavy_check_mark: | [#1060](https://github.com/performancecopilot/pcp/pull/1060) | **Merged** |
-| Ch-6: Archive Logging | :heavy_check_mark: |
-| Ch-7: Performance Co-Pilot Deployment Strategies | :heavy_check_mark: |
-| Ch-8: Customizing and Extending PCP Services | :heavy_check_mark: |
-| | | |
-| **_WEEK 3 (September 28 - October 4)_** |    |    |   |
-| About Programmer's Guide | :heavy_check_mark: | [#1076](https://github.com/performancecopilot/pcp/pull/1076) | **Merged** |
-| Ch-1: Programming Performance Co-Pilot | :heavy_check_mark: |
-| Ch-2: Writing a PMDA | :heavy_check_mark: |
-| Ch-3: PMAPI--The Performance Metrics API | :heavy_check_mark: |
-| Ch-4: Instrumenting Applications | :heavy_check_mark: |
-| | | |
-| **_WEEK 4 (October 5 - October 11)_** |    |    |   |
-| Hosting of PCP books | :heavy_check_mark: | [Books](https://pcp.readthedocs.io/en/latest/) | |
-| Landing page of the REST API documentation | :heavy_check_mark: | [#1117](https://github.com/performancecopilot/pcp/pull/1117) | **Merged** |
-| Blogging of the last four weeks | | |
-| | | |
-| **_WEEK 5 (October 12 - October 18)_** |    |    |   |
-| Conversion of Scalable Time Series index | :heavy_check_mark: | [#1117](https://github.com/performancecopilot/pcp/pull/1117) | **Merged** |
-| 1. GET /series/query| :heavy_check_mark: | | |
-| 2. GET /series/values | :heavy_check_mark: | | |
-| 3. GET /series/descs | :heavy_check_mark: | | |
-| 4. GET /series/labels | :heavy_check_mark: | | |
-| 5. GET /series/metrics | :heavy_check_mark: | | |
-| 6. GET /series/sources | :heavy_check_mark: | | |
-| 7. GET /series/instances | :heavy_check_mark: | | |
-| 8. GET /series/load | :heavy_check_mark: | | |
-| | | |
-| **_WEEK 6 (October 19 - October 25)_** |    |    |   
-| Conversion of PMAPI Host Services index | :heavy_check_mark: | [#1119](https://github.com/performancecopilot/pcp/pull/1119) | **Merged** |
-| 1. GET /pmapi/context | :heavy_check_mark: | | |
-| 2. GET /pmapi/metric | :heavy_check_mark: | | |
-| 3. GET /pmapi/fetch | :heavy_check_mark: | | |
-| 4. GET /pmapi/children | :heavy_check_mark: | | |
-| 5. GET /pmapi/indom | :heavy_check_mark: | | |
-| 6. GET /pmapi/profile | :heavy_check_mark: | | |
-| 7. GET /pmapi/store | :heavy_check_mark: | | |
-| 8. GET /pmapi/derive | :heavy_check_mark: | | |
-| 9. GET /pmapi/metrics | :heavy_check_mark: | | |
-| | | |
-| **_WEEK 7 (October 26 - November 1)_** |    |    |   |
-| Leftovers (if any) is covered |
-| Hosting of REST API documentation | :heavy_check_mark: | [API](https://pcp.readthedocs.io/en/latest/api/) | |
-| Blogging of the last three weeks |
-| | | |
-| **_WEEK 8 (November 2 - November 8)_** |    |    |   |
-| Conversion of the pbench guides | :heavy_check_mark: | [#1963](https://github.com/distributed-system-analysis/pbench/pull/1963)| :warning: |
-| | | |
-| **_WEEK 9 (November 9 - November 15)_** |    |    |   |
-| Continued with the conversion of the pbench guides | :heavy_check_mark: | [#1963](https://github.com/distributed-system-analysis/pbench/pull/1963)| :warning: |
-| Hosting of the pbench guides | :construction: | 
-| Blogging of the last two weeks |
-| | | |
-| **_WEEK 10 (November 16 - November 22)_** |    |    |   |
-| Implementation of the search functionality |
-| Bugs/Issues (if any) is solved | :heavy_check_mark: | [#1139](https://github.com/performancecopilot/pcp/pull/1139) | **Merged** |
-| Commencement of stretch goals | :heavy_check_mark: | [#1142](https://github.com/performancecopilot/pcp/pull/1142) | :warning: |
-| | | |
-| **_WEEK 11 (November 23 - November 30)_** |    |    |   |
-|Improvement of all the diagrams |
-| Final blogging of the last two weeks |
-| Checking(changing) of the codebase as per coding standards |
-| | | |
-| **_WEEK 12 (November 30 - December 5)_** |    |    |   |
-| The final submission |
-| Submission of the project reports (final work products) |
-| Submission of the evaluations |
-
-
+### Additional Information and Resources
+1. Mentoring Organization - [Performance Co-Pilot](https://pcp.io/)
+2. Mentors - [Nathan Scott](https://github.com/natoscott), [Andreas Gerstmayr](https://github.com/andreasgerstmayr), [Peter Portante](https://github.com/portante)
+3. [Project](https://developers.google.com/season-of-docs/docs/participants/project-pcp-arzoo14)
+4. [Proposal](https://github.com/arzoo14/Google-Season-of-Docs-2020/blob/master/proposal.md)
+5. Github Repositories - [PCP](https://github.com/performancecopilot/pcp), [Pbench](https://github.com/distributed-system-analysis/pbench)
+6. Merged PRs - [PCP](https://github.com/performancecopilot/pcp/pulls?q=is%3Apr+author%3Aarzoo14+is%3Aclosed+is%3Amerged+), [Pbench](https://github.com/distributed-system-analysis/pbench/pull/1963)
+7. [Timeline & Deliverables](https://github.com/arzoo14/Google-Season-of-Docs-2020/blob/master/timeline_deliverables.md)  
+8. [Final Report](https://arzoo14.github.io/Google-Season-of-Docs-2020/)
+9. Final Work Product - [PCP](https://pcp.readthedocs.io/en/latest/), [Pbench](https://pbench.readthedocs.io/en/latest/)
+10. [Blogs]
 
 
 
