@@ -17,7 +17,7 @@ No, my friend, it's not. I'll continue contributing to Performance Co-Pilot orga
 </p>
 
 <p style='text-align: justify;'>
-So, In the end, I would like to express my sincere gratitude to my mentors - Nathan Scott and Andreas Gerstmayr for their constant support and guidance. They were always around and had solutions to any issue that I faced. I would also like to thank Peter Portante for his guidance on the pbench guides. I would continue with him on adding more content to the pbench guides.
+So, in the end, I would like to express my sincere gratitude to my mentors - Nathan Scott and Andreas Gerstmayr for their constant support and guidance. They were always around and had solutions to any issue that I faced. I would also like to thank Peter Portante for his guidance on the pbench guides. I would continue with him on adding more content to the pbench guides.
 </p>
 
 <p style='text-align: justify;'>
