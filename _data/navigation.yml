@@ -4,6 +4,8 @@ main:
   #   url: /about/
   - title: "GSoD 2020"
     url: /gsod/
+  - title: "GSoD 2021"
+    url: /gsod2021/
   - title: "Blogs"
     url: /blogs/
   - title: "CV"
